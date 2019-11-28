@@ -1,4 +1,4 @@
-#include "ECGcomponents.h"
+#include "EMGcomponents.h"
 
 class AD8232: public ECGsensor
 {
