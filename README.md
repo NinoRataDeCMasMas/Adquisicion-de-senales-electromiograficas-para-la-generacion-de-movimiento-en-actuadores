@@ -1,4 +1,4 @@
-# Controlador de velocidad para motor DC
+# Adquisición de señales electromiográficas para la generación de movimiento en actuadores
 
 ![](https://github.com/NinoRataDeCMasMas/Adquisicion-de-senales-electromiograficas-para-la-generacion-de-movimiento-en-actuadores/blob/master/schematics/A1.jpeg)
 
