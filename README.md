@@ -22,7 +22,8 @@ Una vez construida la implementación de Hardware se desarrollo una serie de pro
 ![](https://github.com/NinoRataDeCMasMas/Adquisicion-de-senales-electromiograficas-para-la-generacion-de-movimiento-en-actuadores/blob/master/schematics/A5.png)
 
 ## Instalación del proyecto
-Descarga los contenidos de este repositorio en tu computadora. Mueva los directorio
+Descarga los contenidos de este repositorio en tu computadora. Mueva los directorios localizados en la carpeta _libraries_
+
  * _ComplementaryFilter_
  * _EMGsensors_
 
